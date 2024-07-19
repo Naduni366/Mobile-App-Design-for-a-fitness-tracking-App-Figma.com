@@ -12,7 +12,7 @@ Community Support: Connect with fellow students, share progress, and stay motiva
 
 Explore our design and see how we've envisioned an app that promotes a healthier and more balanced university experience!
 
-<a href="https://www.figma.com/file/PZ6rdtEYaUNTnvlli1XeTk/Main?type=design&node-id=0%3A1&mode=dev&t=0HlbbbwEMP2NUc6R-1">GitHub</a>
+<a href="https://www.figma.com/file/PZ6rdtEYaUNTnvlli1XeTk/Main?type=design&node-id=0%3A1&mode=dev&t=0HlbbbwEMP2NUc6R-1">Check design at Figma</a>
 
 <a href="https://github.com/Naduni366/Mobile-App-Design-for-a-fitness-tracking-App-Figma.com.git">GitHub</a>
 
